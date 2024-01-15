@@ -1,0 +1,12 @@
+body {
+    background-color: #80bfff;
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    background-color: orange;
+    border: 5px solid black;
+    width: 30%;
+    height: 70%;
+}
